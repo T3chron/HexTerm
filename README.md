@@ -38,7 +38,7 @@ HexTerm – A powerful all-in-one Windows terminal &amp; dev environment with mu
 **Installation Steps:**
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/T3chron/HexTerm.git
    ```
 2. Run `HexTerm.exe` or compile with Visual Studio/CLion
 3. Place the WAV file in `Config\HEXTERM.wav` for startup sound
